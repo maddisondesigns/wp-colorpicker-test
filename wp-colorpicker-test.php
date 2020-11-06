@@ -3,7 +3,7 @@
 Plugin Name: WP ColorPicker Test
 Plugin URI: http://maddisondesigns.com
 Description: A simple plugin to test the WP Color Picker Alpha script
-Version: 1.0.0
+Version: 1.0.1
 Author: Anthony Hortin
 Author URI: http://maddisondesigns.com
 Text Domain: skyrocket
